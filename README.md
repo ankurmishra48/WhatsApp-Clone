@@ -26,7 +26,7 @@ A real-time chat application that mimics the core functionality of WhatsApp, bui
 
  🔧 Installation
 1. Clone the repository
-git clone https://github.com/yourusername/whatsapp-clone.git
+git clone https://github.com/ankurmishra48/WhatsApp-Clone.git
 cd whatsapp-clone
 2. Setup the server
 
