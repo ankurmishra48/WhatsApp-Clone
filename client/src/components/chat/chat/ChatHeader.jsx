@@ -48,7 +48,7 @@ const ChatHeader = ({ person }) => {
 
     return (
         <Header>
-            <Image src={url} alt="display picture" />     
+            <Image src={url} alt="" />     
             <Box>
                 <Name>{person.name}</Name>
                 <Status>{activeUsers?.find(user => user.sub === person.sub) ? 'Online' : 'Offline'}</Status>    
